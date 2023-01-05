@@ -69,3 +69,10 @@ after correcting and compiling, we have
 create example.c file at /usr/src/test_syscall
 
 ![](screenshots/screenshot_30-12-2022_17h40m18.png)
+
+
+###Part 4
+
+First enable shared folder and modify path
+
+![](screenshots/screenshot_03-01-2023_16h48m30.png)
